@@ -431,6 +431,7 @@ footer {
   }
 }
 
+/********** MOBILE STARTS HERE ************/
 @media screen and (max-width: 500px) {
   .container {
     width: 100%;
